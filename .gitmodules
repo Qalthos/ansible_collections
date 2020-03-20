@@ -1,0 +1,9 @@
+[submodule "ansible/netcommon"]
+	path = ansible/netcommon
+	url = git://github.com/ansible-collections/netcommon.git
+[submodule "arista/eos"]
+	path = arista/eos
+	url = git://github.com/ansible-collections/eos.git
+[submodule "junipernetworks/junos"]
+	path = junipernetworks/junos
+	url = git://github.com/ansible-collections/junos.git
