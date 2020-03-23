@@ -7,3 +7,6 @@
 [submodule "junipernetworks/junos"]
 	path = junipernetworks/junos
 	url = git://github.com/ansible-collections/junos.git
+[submodule "cisco/nxos"]
+	path = cisco/nxos
+	url = git://github.com/ansible-collections/nxos.git
